@@ -1,0 +1,6 @@
+t,Matemáticas,Sala A,2023-01-10,13:40,Profesor A,Pizarra y proyector,60
+t,Arte,Sala B,2023-01-11,14:30,Profesor B,Pinceles y lienzos,90
+co,Historia,Auditorio,2023-01-12,15:00,Profesor C,120,Historia del arte
+t,Química,Laboratorio,2023-01-13,16:15,Profesor D,Reactantes y material de vidrio,75
+s,Lectura,Biblioteca,2023-01-14,17:20,Profesor E,El principito,45
+c,8iones,Recoba,2023-03-15,18:00,Madona,150,25000

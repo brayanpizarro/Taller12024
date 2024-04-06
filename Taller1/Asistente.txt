@@ -1,0 +1,5 @@
+e,Matematicas,Elena,García,elena.garcia@example.com,Universidad Nacional
+p,Quimica,Pedro,Martínez,pedro.martinez@example.com,posgrado en Ingeniería Eléctrica,Energías Renovables
+es,Arte,Ana,López,ana.lopez@example.com,Apasionada por la tipografía y la composición visual,Diseño Gráfico
+e,8iones,Carlos,Rodríguez,carlos.rodriguez@example.com,Universidad Autónoma
+p,Lectura,Laura,Pérez,laura.perez@example.com,posgrado en Medicina,especialidad en Neurología
